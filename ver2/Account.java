@@ -9,11 +9,12 @@ public class Account {
 	private String name;
 	// Constructor 
 
-	public Account(double balance) { 
-
-		this("Unknown", balance); 
-
-		} 
+//	public Account(double balance) { 
+//
+//		this("Unknown", balance); 
+//
+//		} 
+	//Removed Constructor
 //New comment for balance
 	
 
